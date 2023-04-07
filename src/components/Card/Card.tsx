@@ -13,6 +13,7 @@ function CardComponet() {
             alt="qr-code"
             width={300}
             height={300}
+            priority
           />
           <Typography className='text-center text-sm font-bold mt-4'>
             Improve your front-end skills by building projects
